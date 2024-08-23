@@ -20,7 +20,7 @@ I'm BapiGso
 [![Top Langs](https://bad-apple-github-readme.vercel.app/api/top-langs/?show_bg=1&username=BapiGso&layout=compact&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-profile-trophy.vercel.app/?username=BapiGso&row=1&column=5)
 
-![亮色](https://raw.githubusercontent.com/BapiGso/BapiGso/output/github-contribution-grid-snake.svg)
+![light](https://raw.githubusercontent.com/BapiGso/BapiGso/output/github-contribution-grid-snake.svg)
 <br>
 
 
