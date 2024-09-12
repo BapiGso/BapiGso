@@ -15,13 +15,17 @@ I'm BapiGso
 - [PPTTER](https://pptter.onrender.com/)
 - [Gopanel](https://[2600:1900:4031:c5::]:8443/admin/monitor)
 
+<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=BapiGso" alt="Stats">
 
-![](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=BapiGso)
-[![Top Langs](https://bad-apple-github-readme.vercel.app/api/top-langs/?show_bg=1&username=BapiGso&layout=compact&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+<img height="195px" src="https://bad-apple-github-readme.vercel.app/api/top-langs/?show_bg=1&username=BapiGso&layout=compact&card_width=295" alt="TopLang">
 
-<img src="https://raw.githubusercontent.com/BapiGso/BapiGso/output/github-contribution-grid-snake.svg" style="width: 495px;" alt="snake">
+[//]: # (![]&#40;https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=BapiGso&#41;)
+[//]: # (![]&#40;https://bad-apple-github-readme.vercel.app/api/top-langs/?show_bg=1&username=BapiGso&layout=compact&card_width=445&#41;)
 
-[//]: # (![light]&#40;https://raw.githubusercontent.com/BapiGso/BapiGso/output/github-contribution-grid-snake.svg&#41;)
+
+[//]: # (<img src="https://raw.githubusercontent.com/BapiGso/BapiGso/output/github-contribution-grid-snake.svg" style="width: 495px;" alt="snake">)
+
+![light](https://raw.githubusercontent.com/BapiGso/BapiGso/output/github-contribution-grid-snake.svg)
 
 ### Acknowledgments
 I am deeply grateful to [JetBrains](https://www.jetbrains.com/) for their generous sponsorship of my development work. Their support has been pivotal in enabling me to continue creating and innovating.
