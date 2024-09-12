@@ -15,9 +15,12 @@ I'm BapiGso
 - [PPTTER](https://pptter.onrender.com/)
 - [Gopanel](https://[2600:1900:4031:c5::]:8443/admin/monitor)
 
-<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=BapiGso" alt="Stats">
-
-<img height="195px" src="https://bad-apple-github-readme.vercel.app/api/top-langs/?show_bg=1&username=BapiGso&layout=compact&card_width=295" alt="TopLang">
+<a>
+<img align="center" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=BapiGso" alt="Stats">
+</a>
+<a>
+<img align="center" height="195px" src="https://bad-apple-github-readme.vercel.app/api/top-langs/?show_bg=1&username=BapiGso&layout=compact&card_width=195" alt="TopLang">
+</a>
 
 [//]: # (![]&#40;https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=BapiGso&#41;)
 [//]: # (![]&#40;https://bad-apple-github-readme.vercel.app/api/top-langs/?show_bg=1&username=BapiGso&layout=compact&card_width=445&#41;)
