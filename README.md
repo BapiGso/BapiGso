@@ -16,11 +16,11 @@ I'm BapiGso
 - [Gopanel](https://[2600:1900:4031:c5::]:8443/admin/monitor)
 
 <a href="#">
-    <img height="195px" align="center" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=BapiGso" alt="Stats">
+    <img height="170px" align="center" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=BapiGso" alt="Stats">
 </a>
 
 <a href="#">
-    <img height="195px" align="center" src="https://bad-apple-github-readme.vercel.app/api/top-langs/?show_bg=1&username=BapiGso&layout=compact&card_width=340" alt="TopLang">
+    <img height="170px" width="390px" align="center" src="https://bad-apple-github-readme.vercel.app/api/top-langs/?show_bg=1&username=BapiGso&layout=compact&card_width=340" alt="TopLang">
 </a>
     
 
