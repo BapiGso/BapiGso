@@ -11,9 +11,10 @@ I'm BapiGso
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 :star: Here are some projects that I'm working on:
-- [SMOE](https://smoe.cc/)
-- [PPTTER](https://pptter.onrender.com/)
-- [Gopanel](https://[2600:1900:4031:c5::]:8443/admin/monitor)
+- [SMOE](https://smoe.cc/) : My Blog Website Engine
+- [PPTTER](https://pptter.onrender.com/) : A Web Chatroom
+- [Gopanel](https://[2600:1900:4031:c5::]:8443/admin/monitor) : A server management panel embedded with the Golang ecosystem
+- [PrivaCV](https://bapigso.github.io/PrivaCV/) : A resume creation tool based on Markdown and CSS
 
 <a href="#">
     <img height="170px" align="center" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=BapiGso" alt="Stats">
