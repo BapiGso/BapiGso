@@ -11,10 +11,11 @@ I'm BapiGso
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 :star: Here are some projects that I'm working on:
-- [piano-vision-fingering](https://github.com/BapiGso/piano-vision-fingering) : VR game [PianoVision](https://www.meta.com/experiences/pianovision/5271074762922599/) fingering generation tool that utilizes an LLM
+
 - [SMOE](https://smoe.cc/) : My Blog Website Engine
-- [PPTTER](https://pptter.onrender.com/) : A Web Chatroom
+- [piano-vision-fingering](https://github.com/BapiGso/piano-vision-fingering) : VR game [PianoVision](https://www.meta.com/experiences/pianovision/5271074762922599/) fingering generation tool that utilizes an LLM
 - [Gopanel](https://[2600:1900:4031:c5::]:8443/admin/monitor) : A server management panel embedded with the Golang ecosystem
+- [PPTTER](https://pptter.onrender.com/) : A Web Chatroom
 - [PrivaCV](https://bapigso.github.io/PrivaCV/) : A resume creation tool based on Markdown and CSS
 
 <a href="#">
