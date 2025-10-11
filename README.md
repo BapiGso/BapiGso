@@ -36,7 +36,4 @@ I'm BapiGso
 
 ![light](https://raw.githubusercontent.com/BapiGso/BapiGso/output/github-contribution-grid-snake.svg)
 
-### Acknowledgments
-I am deeply grateful to [JetBrains](https://www.jetbrains.com/) for their generous sponsorship of my development work. Their support has been pivotal in enabling me to continue creating and innovating.
 
-![JetBrains logo](https://resources.jetbrains.com/storage/products/company/brand/logos/jetbrains.svg)
