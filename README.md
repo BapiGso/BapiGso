@@ -19,13 +19,14 @@ I'm BapiGso
 - [PrivaCV](https://bapigso.github.io/PrivaCV/) : A resume creation tool based on Markdown and CSS
 
 <a href="#">
-    <img height="170px" align="center" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=BapiGso" alt="Stats">
+    <img height="170px" align="center" src="https://github-readme-stats.vercel.app/api?show_bg=1&username=BapiGso" alt="Stats">
 </a>
 
 <a href="#">
-    <img height="170px" width="390px" align="center" src="https://bad-apple-github-readme.vercel.app/api/top-langs/?show_bg=1&username=BapiGso&layout=compact&card_width=340" alt="TopLang">
+    <img height="170px" width="390px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?show_bg=1&username=BapiGso&layout=compact&card_width=340" alt="TopLang">
 </a>
-    
+
+[//]: # (    <img height="170px" width="390px" align="center" src="https://bad-apple-github-readme.vercel.app/api/top-langs/?show_bg=1&username=BapiGso&layout=compact&card_width=340" alt="TopLang">)
 
 
 [//]: # (![]&#40;https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=BapiGso&#41;)
