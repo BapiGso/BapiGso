@@ -35,6 +35,6 @@ I'm BapiGso
 [//]: # (<img src="https://raw.githubusercontent.com/BapiGso/BapiGso/output/github-contribution-grid-snake.svg" style="width: 495px;" alt="snake">)
 
 ![light](https://raw.githubusercontent.com/BapiGso/BapiGso/output/github-contribution-grid-snake.svg)
-![light](https://raw.githubusercontent.com/BapiGso/BapiGso/refs/heads/main/sign.svg)
+![light](https://raw.githubusercontent.com/BapiGso/BapiGso/main/sign.svg)
 
 
