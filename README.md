@@ -19,8 +19,8 @@ I'm BapiGso
 - [PrivaCV](https://bapigso.github.io/PrivaCV/) : A resume creation tool based on Markdown and CSS
 
 <p align="center">
-  <img src="https://my-github-stats-lyart.vercel.app/api/stats?username=BapiGso&show_icons=true&hide_rank=true&svg_height=190" alt="GitHub Stats" height="170" />
-  <img src="https://my-github-stats-lyart.vercel.app/api/top-langs?username=BapiGso&langs_count=8&hide=html,css&layout=compact&svg_height=190" alt="Top Languages" height="170" />
+  <img src="https://my-github-stats-lyart.vercel.app/api/stats?username=BapiGso&show_icons=true&hide_rank=true&svg_height=190" alt="GitHub Stats" height="160" />
+  <img src="https://my-github-stats-lyart.vercel.app/api/top-langs?username=BapiGso&langs_count=8&hide=html,css&layout=compact&svg_height=190" alt="Top Languages" height="160" />
 </p>
 
 [//]: # (    <img height="170px" width="390px" align="center" src="https://bad-apple-github-readme.vercel.app/api/top-langs/?show_bg=1&username=BapiGso&layout=compact&card_width=340" alt="TopLang">)
